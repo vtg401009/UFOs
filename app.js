@@ -2,11 +2,11 @@
 
 // import the data from data.js
 
-// const tableData = data;
+const tableData = data;
 
 // reference the HTML table using d3
 
-// var tbody = d3.select("tbody");
+var tbody = d3.select("tbody");
 
 // let friends = ["sarah", "greg", "cindy", "jeff"];
 
@@ -24,7 +24,7 @@ data.forEach((dataRow) => {
     // loop through each field in the dataRow and add
     // each value as a table cell (td)
 
-    Objectvalues(dataRow).forEach((val) => {
+    Object.values(dataRow).forEach((val) => {
         let cell = row.append("td");
         cell.text(val);
         }
