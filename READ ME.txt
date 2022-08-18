@@ -1,0 +1,18 @@
+Overview of Project:
+
+The purpose of this analysis was to use JavaScript to create a webpage that documents UFO sightings across the
+United States.
+
+Results:
+
+Someone might use this webpage by entering in the date in the Enter Date field, the city in the Enter City field,
+the state in the Enter State field, country in the Enter Country field, and finally shape in the Enter Shape field.
+
+To clear out the search, click on UFO sightings at the top left of the page.
+
+Summary:
+
+A drawback of this design is there is no way to understand what you can filter on because there is not a list to choose from.
+
+A recommendation for future development is to utilize a list to pick from certain criteria. Also, links to several sources
+would drastically improve the credability of this website.
